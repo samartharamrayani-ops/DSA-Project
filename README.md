@@ -27,7 +27,7 @@ The application allows users to:
 * **Type:** Console Application
 
 
-# ⚙️ Features
+#  Features
 
  Add new academic tasks
  View stored tasks
